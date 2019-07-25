@@ -1,0 +1,15 @@
+1.关于word操作，RunDocOpen.bat会打开一个文档，并且读取这个文档的滚动条位置和缩放大小
+
+
+
+
+
+控件名称对应
+WPS文字	KWPS.Aplication
+WPS的Excel	KET.Application
+WPS的演示文档	KWPP.Application
+Word	Word.Application
+Excel	Excel.Application
+Powerpoint	Powerpoint.Application
+
+
